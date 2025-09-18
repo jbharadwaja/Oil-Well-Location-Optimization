@@ -1,0 +1,4 @@
+# Anaconda/Jupyter
+.ipynb_checkpoints
+/oilygiant/
+__pycache__/
